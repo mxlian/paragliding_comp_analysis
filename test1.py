@@ -1,3 +1,9 @@
+# Parse tasks created with:
+#
+# https://geolocalisation.ffvl.fr/sites/all/modules/tasks/tasks.html
+#
+# You need to have a Waypoints file to create tasks. See the testfiles folder
+# for that
 import xml.etree.ElementTree as ET
 
 def parse_waypoints(inputfile, format=None):
