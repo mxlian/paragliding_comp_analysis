@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Task Planner">
+  <rte>
+    <date>17-3-2019</date>
+    <type>race</type>
+    <num>0</num>
+    
+      <rtept lon="-60.12473333333333" lat="-31.95478333333333">
+        <close>18:00:00</close>
+        <!-- <filename>task_17-3-2019.tsk</filename> -->
+        <fileOrigin>EntreRios.cup</fileOrigin>
+        <goalType>line</goalType>
+        <id>Segui</id>
+        <index>0</index>
+        <mode>exit</mode>
+        <name>"Segui"</name>
+        <open>12:00:00</open>
+        <radius>470</radius>
+        <type>takeoff</type>
+        <z>100</z>
+      </rtept>
+    
+      <rtept lon="-60.00731666666667" lat="-31.871366666666667">
+        <close>18:00:00</close>
+        <!-- <filename>task_17-3-2019.tsk</filename> -->
+        <fileOrigin>EntreRios.cup</fileOrigin>
+        <goalType>line</goalType>
+        <id>Viale</id>
+        <index>1</index>
+        <mode>entry</mode>
+        <name>"Viale"</name>
+        <open>12:00:00</open>
+        <radius>1500</radius>
+        <type>start</type>
+        <z>100</z>
+      </rtept>
+    
+      <rtept lon="-60.16181666666667" lat="-32.24198333333333">
+        <close>18:00:00</close>
+        <!-- <filename>task_17-3-2019.tsk</filename> -->
+        <fileOrigin>EntreRios.cup</fileOrigin>
+        <goalType>line</goalType>
+        <id>Aranguren</id>
+        <index>2</index>
+        <mode>entry</mode>
+        <name>"Aranguren"</name>
+        <open>12:00:00</open>
+        <radius>5000</radius>
+        <type>turnpoint</type>
+        <z>100</z>
+      </rtept>
+    
+      <rtept lon="-60.46135" lat="-32.077666666666666">
+        <close>18:00:00</close>
+        <!-- <filename>task_17-3-2019.tsk</filename> -->
+        <fileOrigin>EntreRios.cup</fileOrigin>
+        <goalType>line</goalType>
+        <id>Libertador San Martin</id>
+        <index>3</index>
+        <mode>entry</mode>
+        <name>"Libertador San Martin"</name>
+        <open>12:00:00</open>
+        <radius>1000</radius>
+        <type>end-of-speed-section</type>
+        <z>100</z>
+      </rtept>
+    
+      <rtept lon="-60.44403333333333" lat="-32.05435">
+        <close>18:00:00</close>
+        <!-- <filename>task_17-3-2019.tsk</filename> -->
+        <fileOrigin>EntreRios.cup</fileOrigin>
+        <goalType>line</goalType>
+        <id>Puiggari</id>
+        <index>4</index>
+        <mode>entry</mode>
+        <name>"Puiggari"</name>
+        <open>12:00:00</open>
+        <radius>200</radius>
+        <type>goal</type>
+        <z>100</z>
+      </rtept>
+    
+  </rte>
+</gpx>
